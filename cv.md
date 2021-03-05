@@ -1,26 +1,43 @@
 # Darya Hamelka
 ## Сontacts
-**Mob:** (+375) 44-77-11-290
-**E-mail:** gomelkodarya@gmail.com
-**Skype:** Darya Hamelka
-**LinkedIn:** https://www.linkedin.com/in/darya-hamelka-62a3a4208/
+**Mob:**
+(+375) 44-77-11-290
+**E-mail:**
+gomelkodarya@gmail.com
+**Skype:**
+Darya Hamelka
+**LinkedIn:**
+https://www.linkedin.com/in/darya-hamelka-62a3a4208/
 ## Personal information
-**Date of birth:**	29.01.1987
-**Marital status / children:** married / yes
+**Date of birth:**
+29.01.1987
+**Marital status / children:**
+married / yes
 ## Professional skills
-**HTML/CSS coding:**	HTML5, CSS3, Sass/Less/Scss, Bootstrap, Responsive and cross-browser coding
-**JavaScript versions:**	ECMAScript 5-7
-**Frameworks/ Libraries:**	jQuery
-**Backend experience:**	Node.js 
-**Testing tools:**	QUnit + manual testing experience
-**Project builders:**	WebPack
-**Package managers:**	NPM, Yarn
-**IDE:**	Visual Studio Code
-**OS platforms:**	Windows
-**GitHub systems:**	GitHub, GitLab, BitBucket
-**Graphics editor:**	Adobe Photoshop
+**HTML/CSS coding:**
+HTML5, CSS3, Sass/Less/Scss, Bootstrap, Responsive and cross-browser coding
+**JavaScript versions:**
+ECMAScript 5-7
+**Frameworks/ Libraries:**
+jQuery
+**Backend experience:**
+Node.js 
+**Testing tools:**
+QUnit + manual testing experience
+**Project builders:**
+WebPack
+**Package managers:**
+NPM, Yarn
+**IDE:**
+Visual Studio Code
+**OS platforms:**
+Windows
+**GitHub systems:**
+GitHub, GitLab, BitBucket
+**Graphics editor:**
+Adobe Photoshop
 ## Code
-...
+```
 function addNum() {
            let target = event.target;
            if (target.tagName == 'DIV') {
@@ -37,12 +54,12 @@ function addNum() {
                result.innerText = 'Неверно!'; 
            } 
 }
-...
+```
 ## Work experience
-*03/2014 – present
-*Private enterprise Polyana Tour
- *Role:	Manager
- *Responsibilities: agency management, direction and control of employees’s activities, work with tour operators, work with clients, selection and booking of tours, organization of bus tours, opening of Schengen visas, preparation of documents for visas, booking of air tickets
+* 03/2014 – present
+* Private enterprise Polyana Tour
+ * Role:	Manager
+ * Responsibilities: agency management, direction and control of employees’s activities, work with tour operators, work with clients, selection and booking of tours, organization of bus tours, opening of Schengen visas, preparation of documents for visas, booking of air tickets
 *07/2007 – 02/2011
 *Private unitary enterprise Polyana plus
  *Role:	Accountant
