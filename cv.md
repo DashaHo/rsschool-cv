@@ -1,13 +1,13 @@
 # Darya Hamelka
-##**Сontacts**##
+## Сontacts
 **Mob:** (+375) 44-77-11-290
 **E-mail:** gomelkodarya@gmail.com
 **Skype:** Darya Hamelka
 **LinkedIn:** https://www.linkedin.com/in/darya-hamelka-62a3a4208/
-##**Personal information**##
+## Personal information
 **Date of birth:**	29.01.1987
 **Marital status / children:** married / yes
-##**Professional skills**##
+## Professional skills
 **HTML/CSS coding:**	HTML5, CSS3, Sass/Less/Scss, Bootstrap, Responsive and cross-browser coding
 **JavaScript versions:**	ECMAScript 5-7
 **Frameworks/ Libraries:**	jQuery
@@ -19,7 +19,7 @@
 **OS platforms:**	Windows
 **GitHub systems:**	GitHub, GitLab, BitBucket
 **Graphics editor:**	Adobe Photoshop
-##**Code**##
+## Code
 ...
 function addNum() {
            let target = event.target;
@@ -38,7 +38,7 @@ function addNum() {
            } 
 }
 ...
-##**Work experience**##
+## Work experience
 *03/2014 – present
 *Private enterprise Polyana Tour
  *Role:	Manager
@@ -51,7 +51,7 @@ function addNum() {
 *Unitary enterprise Line of purity 
  *Role:	Accountant
  *Responsibilities:	accounting, reporting: tax, statistical, payments, debt control, payroll, social insurance, bank, reconciliation reports, office work
-##**Additional work experience**## 
+## Additional work experience 
 *2010-2015
 *FIFA
  *Role:	Assistant referee FIFA
@@ -64,7 +64,7 @@ function addNum() {
 *Russian Football Union
  *Role:	Referee and and assistant referee
  *Responsibilities:	refereeing matches of the Russian Women's Football Championship, the Russian Children's Football Championship
-##**Education**##
+## Education
 *10/2020 - 02/2021
 *IT-Academy
  *Web application development with JavaScript
@@ -79,5 +79,5 @@ function addNum() {
 *Zhodzina state Polytechnic University	
  *Faculty: Managment
  *Specialization: Economy and organization of production
-##**English level**##
+## English level
 Pre-Intermediate
