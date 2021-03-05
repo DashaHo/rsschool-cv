@@ -1,46 +1,46 @@
 # Darya Hamelka
 ## Сontacts
-**Mob:**  
-(+375) 44-77-11-290  
-**E-mail:**  
+#### Mob:
+(+375) 44-77-11-290
+#### E-mail:
 gomelkodarya@gmail.com  
-**Skype:**  
+#### Skype: 
 Darya Hamelka  
-**LinkedIn:**  
+#### LinledIn:
 https://www.linkedin.com/in/darya-hamelka-62a3a4208/  
 ## Personal information
-**Date of birth:**  
+#### Date of birth:  
 29.01.1987  
-**Marital status / children:**  
+#### Marital status / children:  
 married / yes  
 ## Professional skills
-**HTML/CSS coding:**  
+#### HTML/CSS coding:
  * HTML5
  * CSS3 
  * Sass/Less/Scss
  * Bootstrap
  * Responsive and cross-browser coding  
-**JavaScript versions:**  
+#### JavaScript versions:
  * ECMAScript 5-7  
-**Frameworks/ Libraries:**  
+#### Frameworks/ Libraries:
  * jQuery  
-**Backend experience:**  
+#### Backend experience: 
  * Node.js  
-**Testing tools:**  
+#### Testing tools:  
 * QUnit + manual testing experience  
-**Project builders:**  
+#### Project builders: 
  * WebPack  
-**Package managers:**  
+#### Package managers:
  * NPM, Yarn  
-**IDE:**  
+#### IDE
  * Visual Studio Code  
-**OS platforms:**  
+#### OS platforms:  
  * Windows  
-**GitHub systems:**  
+#### *GitHub systems:
  * GitHub
  * GitLab
  * BitBucket  
-**Graphics editor:**  
+#### Graphics editor:
  * Adobe Photoshop  
 ## Code
 ```
