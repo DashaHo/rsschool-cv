@@ -1,1 +1,1 @@
-https://DashaHo.io/rsschool-cv/cv
+https://DashaHo.github.io/rsschool-cv/cv
