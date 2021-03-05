@@ -36,7 +36,7 @@ married / yes
  * Visual Studio Code
 #### OS platforms:  
  * Windows
-#### *GitHub systems:
+#### GitHub systems:
  * GitHub
  * GitLab
  * BitBucket
