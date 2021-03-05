@@ -1,4 +1,4 @@
-#**Darya Hamelka**#
+#Darya Hamelka
 ##**Сontacts**##
 **Mob:** (+375) 44-77-11-290
 **E-mail:** gomelkodarya@gmail.com
