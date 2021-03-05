@@ -19,29 +19,29 @@ married / yes
  * CSS3 
  * Sass/Less/Scss
  * Bootstrap
- * Responsive and cross-browser coding  
+ * Responsive and cross-browser coding
 #### JavaScript versions:
- * ECMAScript 5-7  
+ * ECMAScript 5-7
 #### Frameworks/ Libraries:
- * jQuery  
+ * jQuery
 #### Backend experience: 
- * Node.js  
+ * Node.js
 #### Testing tools:  
-* QUnit + manual testing experience  
+* QUnit + manual testing experience
 #### Project builders: 
- * WebPack  
+ * WebPack
 #### Package managers:
- * NPM, Yarn  
+ * NPM, Yarn
 #### IDE
- * Visual Studio Code  
+ * Visual Studio Code
 #### OS platforms:  
- * Windows  
+ * Windows
 #### *GitHub systems:
  * GitHub
  * GitLab
- * BitBucket  
+ * BitBucket
 #### Graphics editor:
- * Adobe Photoshop  
+ * Adobe Photoshop
 ## Code
 ```
 function addNum() {
